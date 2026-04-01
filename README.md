@@ -3,7 +3,6 @@
 ### 📌 Website: https://www.saucedemo.com/
 #### 4. Buatkan minimal 5 skenario testing untuk Automation Testing dari website apapun menggunakan Aplikasi “Katalon Studio”?
 ##### Test Skenario
-- Test Skenario
 - User Login
 - Filter Product
 - Cart Product
