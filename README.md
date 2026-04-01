@@ -1,4 +1,4 @@
-<img width="1090" height="300" alt="image" src="https://github.com/user-attachments/assets/4e410bbc-463d-45e7-93d1-ff1d091aed04" /># Test Web Automation with Katalon - PT. Profescipta Wahanatehnik
+# Test Web Automation with Katalon - PT. Profescipta Wahanatehnik
 
 ### 📌 Website: https://www.saucedemo.com/
 #### 4. Buatkan minimal 5 skenario testing untuk Automation Testing dari website apapun menggunakan Aplikasi “Katalon Studio”?
